@@ -32,8 +32,8 @@ implements the `[SKPaymentTransactionObserver paymentQueue:updatedTransactions:]
 }
 ```
 
-Sample Ruby IAB verfication
----------------------------
+Sample Ruby IAB Verification
+----------------------------
 
 ```ruby
 require 'rubygems'
@@ -54,8 +54,8 @@ else
 end
 ```
 
-Sample PHP IAB verfication
---------------------------
+Sample PHP IAB Verification
+---------------------------
 
 ```php
 $base64EncodedPublicKey = 'BASE64-ENCODED RSA PUBLIC KEY FROM YOUR GOOGLE PLAY DEVELOPER CONSOLE "SERVICES & APIS TAB"';
